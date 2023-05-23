@@ -1,0 +1,8 @@
+.item-card {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.container {
+  margin: 20px;
+}

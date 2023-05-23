@@ -1,0 +1,15 @@
+.items {
+  margin: 10px;
+  padding: 10px;
+}
+.list-container {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  width: 80px;
+  margin-right: 10px;
+}
+.name {
+  font-size: 20px;
+}

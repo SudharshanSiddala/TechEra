@@ -1,0 +1,10 @@
+.header-img {
+  width: 150px;
+}
+.main-container {
+  background-color: #f1f5f9;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
